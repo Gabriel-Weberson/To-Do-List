@@ -38,6 +38,5 @@ Este é um projeto completo de gerenciamento de tarefas no formato **To-Do List*
 
 ## **Como Executar**
 
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+1. Execute o terminal dentro da pasta do Backend e envie o seguinte comando: node index.js
+2. Execute o terminal dentro da pasta do Frontend e envie o seguinte comando: npm run serve
